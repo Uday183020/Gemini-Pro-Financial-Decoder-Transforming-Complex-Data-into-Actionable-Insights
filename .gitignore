@@ -1,0 +1,25 @@
+# API Keys and Secrets
+.env
+.env.local
+.env.*
+
+# Python - Environment & Dependencies
+venv/
+env/
+.venv/
+bin/
+lib/
+share/
+include/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data & Temporary Files
+*.csv
+*.xlsx
+.DS_Store
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/config.toml
