@@ -1,0 +1,2 @@
+# Gemini-Pro-Financial-Decoder-Transforming-Complex-Data-into-Actionable-Insights
+Gemini Pro Financial Decoder is an AI-powered financial intelligence tool that transforms dense, jargon-heavy financial statements into clear, actionable insights. By combining Google’s Gemini 3 Flash model with the Streamlit web framework, the app automates the analysis of Balance Sheets, Profit &amp; Loss statements, and Cash Flow reports.
